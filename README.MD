@@ -2,7 +2,7 @@
 
 - **923 days** of experience in **WebDev** and **AI**
 
-[![committers.top badge](https://user-badge.committers.top/kazakhstan_public/Bebdyshev.svg)](https://user-badge.committers.top/kazakhstan_public/Bebdyshev)
+[![committers.top badge](https://user-badge.committers.top/hong_kong/bebdyshev.svg)](https://user-badge.committers.top/hong_kong/bebdyshev)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
